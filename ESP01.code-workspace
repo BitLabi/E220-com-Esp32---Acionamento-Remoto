@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP01",
+			"path": "../../../../../../STM32/nRF_Receiver_ESP01/ESP01"
+		},
+		{
+			"name": "E220",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
